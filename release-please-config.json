@@ -30,10 +30,10 @@
       "hidden": true
     }
   ],
+  "prerelease": true,
   "packages": {
     ".": {
-      "package-name": "",
-      "prerelease": true
+      "package-name": ""
     },
     "workspaces/arborist": {},
     "workspaces/libnpmaccess": {},
